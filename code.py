@@ -1,3 +1,4 @@
+#this may show errors in python3, change accordingly
 from twython import Twython
 from twython import TwythonStreamer
 import time
