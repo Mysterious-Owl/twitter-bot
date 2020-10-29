@@ -1,4 +1,4 @@
-# Raspberry-Pi-twitter-API-using-Twython
+# Raspberry Pi Twitter API using Twython
 
 #### To see it working https://youtu.be/962BUCFqvDA
 <br>
@@ -17,4 +17,3 @@ You can also make twitter bot which favourites tweets, retweet tweet, give notif
 To install twython follow the steps given on twython website.
 <br>
 Read more twython on https://twython.readthedocs.io/en/latest/ 
-<br>
