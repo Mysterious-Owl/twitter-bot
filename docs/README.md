@@ -14,7 +14,7 @@ To install twython
 ```pip install twython```
 or check [here](https://twython.readthedocs.io/en/latest/usage/install.html)
 <br>
-Generate your unique Twitter keys and token from [here](https://developer.twitter.com/en), create a [new app](https://developer.twitter.com/en/apps) and generate your own keys and token.
+Generate your unique Twitter keys and token from [here](https://developer.twitter.com/en) by creating a [new app](https://developer.twitter.com/en/apps).
 
 ## How to run the script
 Update the keys and tokens in code.
