@@ -26,5 +26,5 @@ It will print the link of tweet<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/962BUCFqvDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshot showing the direct use of the script
-![Editor view](https://github.com/Mysterious-Owl/twitter-bot/blob/master/Screenshot1.png)
-![Twitter view](https://github.com/Mysterious-Owl/twitter-bot/blob/master/Screenshot2.png)
+![Editor view](https://github.com/Mysterious-Owl/twitter-bot/raw/master/Screenshot1.png)
+![Twitter view](https://github.com/Mysterious-Owl/twitter-bot/raw/master/Screenshot2.png)
