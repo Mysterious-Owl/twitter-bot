@@ -6,7 +6,7 @@ You can also use it to control GPIO pins of Raspberry Pi([as I did](https://yout
 Here I used the twython library to use Twitter API, this library can be used to all the things mentioned in twitter API document. 
 
 ## Code
-To use with Raspberry Pi and control GPIO use [rpicode.py](rpicode.py) and to use directly on desktop(no GPIO) use [code.py](code.py)
+To use with Raspberry Pi and control GPIO use [rpicode.py](https://github.com/Mysterious-Owl/twitter-bot/blob/master/rpicode.py) and to use directly on desktop(no GPIO) use [code.py](https://github.com/Mysterious-Owl/twitter-bot/blob/master/code.py)
 
 ## Prerequisites
 
@@ -26,5 +26,5 @@ It will print the link of tweet<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/962BUCFqvDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshot showing the direct use of the script
-![Editor view](Screenshot1.png)
-![Twitter view](Screenshot2.png)
+![Editor view](https://github.com/Mysterious-Owl/twitter-bot/blob/master/Screenshot1.png)
+![Twitter view](https://github.com/Mysterious-Owl/twitter-bot/blob/master/Screenshot2.png)
