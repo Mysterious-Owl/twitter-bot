@@ -23,7 +23,11 @@ Run the python file and enter the keyword you want to track, now any new tweet w
 It will print the link of tweet<br>
 
 ## Video showing it controlling lights using Raspberry Pi
-<iframe width="560" height="315" src="https://www.youtube.com/embed/962BUCFqvDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="max-width:600px;">
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/962BUCFqvDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
 
 ## Screenshot showing the direct use of the script
 ![Editor view](https://github.com/Mysterious-Owl/twitter-bot/raw/master/Screenshot1.png)
